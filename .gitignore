@@ -1,0 +1,11 @@
+node_modules
+dist
+out
+*.log*
+.DS_Store
+data
+.vscode
+*.local.*
+
+pnpm-lock.yaml
+package-lock.json
